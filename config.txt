@@ -1,0 +1,12 @@
+replace:4:-:_
+replace:3:,:
+replace:1:т.spr:-2.spr
+replace:1:н.spr:-3.spr
+replace:2:.spr:-1.spr
+replace:2:З_16:16
+startremove:Т  :3
+startremove:Т-:2
+startremove:Т :2
+startremove:Т:1
+startremove:И З-:4
+dublicate:-
